@@ -1,0 +1,7 @@
+# Local analysis and generated temporary files
+tmp/
+
+# Operating system and Office temporary files
+Thumbs.db
+.DS_Store
+~$*
