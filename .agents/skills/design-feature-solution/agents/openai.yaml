@@ -1,0 +1,4 @@
+interface:
+  display_name: "功能方案设计"
+  short_description: "将重点产品模块转化为可评审的功能机制、流程与方案取舍"
+  default_prompt: "使用 $design-feature-solution 为这个重点模块设计可评审的功能方案、核心流程与方案取舍。"
