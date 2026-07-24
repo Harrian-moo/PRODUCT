@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品规划与MVP定义"
+  short_description: "将明确的产品概念转化为产品架构、MVP、优先级与阶段路线图"
+  default_prompt: "使用 $plan-product 将这个产品概念规划为清晰的产品架构、MVP范围和阶段路线图。"
