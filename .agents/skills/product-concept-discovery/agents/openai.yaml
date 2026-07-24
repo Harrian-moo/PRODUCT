@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品概念发现与定义"
+  short_description: "通过分轮引导访谈，将模糊产品构想沉淀为可验证的概念型PRD"
+  default_prompt: "使用 $product-concept-discovery 梳理我的模糊产品构想，通过引导性提问形成概念型PRD V0.1。"
