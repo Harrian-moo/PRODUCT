@@ -1,0 +1,4 @@
+interface:
+  display_name: "接口与跨系统需求定义"
+  short_description: "定义跨系统业务契约、数据同步、异常一致性和联调验收要求"
+  default_prompt: "使用 $define-interface-requirement 为这个跨系统需求编写接口业务契约和联调验收说明。"
