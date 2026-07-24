@@ -1,0 +1,4 @@
+interface:
+  display_name: "执行型PRD撰写"
+  short_description: "将已确认功能方案转化为研发、设计和测试可执行的PRD"
+  default_prompt: "使用 $write-prd 将这个已确认的功能方案整理为可供研发、设计和测试执行的PRD。"
